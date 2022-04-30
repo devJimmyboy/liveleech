@@ -1,3 +1,7 @@
 requests
 streamlink
 ffmpeg-python
+boto3
+tcd
+python-dotenv
+twitchio
