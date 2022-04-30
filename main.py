@@ -18,7 +18,7 @@ import requests
 import streamlink
 import ffmpeg
 import click
-from s3_up import upload_file, upload_part
+from liveleech.s3_up import upload_file, upload_part
 
 twitchClientId = os.getenv("TWITCH_CLIENT_ID")
 twitchClientSecret = os.getenv("TWITCH_CLIENT_SECRET")
