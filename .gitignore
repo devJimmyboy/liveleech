@@ -137,4 +137,4 @@ dmypy.json
 dumps
 
 # PM2 Config
-ecosystem.config.js
+/ecosystem.config.js
